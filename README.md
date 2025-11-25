@@ -45,5 +45,3 @@ This repository gathers various study notes, code samples, and small projects bu
 ## Contribution
 
 You're welcome to fork, improve, or discuss anything here. Issues, feature ideas, and tips are appreciated and help expand the collection. 
-
-If you build something cool with these scripts or have insights, feel free to open a pull request.
